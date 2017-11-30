@@ -1,2 +1,2 @@
-# nickyoun1211.github.io
-Nick's personal website
+# Nick's personal website
+url: https://nickyoun1211.github.io
