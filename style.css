@@ -11,21 +11,26 @@ body{
     background-color:lightgrey;
 }
 .re{
-    font-size: 5em;
     text-align: left;
     font-family: monospace;
+    font-size: 5em;
 }
 .co{
-    font-size: 5em;
     text-align: center;
     font-family: monospace;
+    font-size: 5em;
 }
 .pr{
-    font-size: 5em;
     text-align: right;
     font-family: monospace;
+    font-size: 5em;
 }
 a{
     text-decoration: none;
+}
+
+.home{
+    font-size: 3em;
+    font-family: monospace
 }
 
