@@ -3,12 +3,29 @@ h1{
     text-align: center;
     font-weight: 900 ;
     font-family: monospace;
-    color: gray;
+    color:black;
     
 }
 
-a{
+body{
+    background-color:lightgrey;
+}
+.re{
     font-size: 5em;
+    text-align: left;
+    font-family: monospace;
+}
+.co{
+    font-size: 5em;
+    text-align: center;
+    font-family: monospace;
+}
+.pr{
+    font-size: 5em;
+    text-align: right;
+    font-family: monospace;
+}
+a{
     text-decoration: none;
 }
 
