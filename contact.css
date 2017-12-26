@@ -6,3 +6,13 @@ h1{
 body{
     background-color: lightgray;
 }
+.contact{
+    text-decoration: none;
+    font-family: monospace;
+    font-size: 5em;
+}
+ul{
+    font-family: monospace;
+    font-size: 3em;
+    font-weight: 900;
+}
