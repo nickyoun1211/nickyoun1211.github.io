@@ -1,3 +1,16 @@
 body{
     background-color: lightgray;
 }
+header,
+section{
+    font-size: 2em;
+}
+#color{
+    color: white
+}
+.big{
+    text-decoration: none;
+    font-size: 3em;
+    font-family: monospace;
+}
+

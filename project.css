@@ -1,13 +1,19 @@
-a{
-    font-family: monospace;
-    font-size: 3em;
-    text-decoration: none;
+
+body{
+    background-color: lightgray;
 }
 h1{
     font-size: 10em;
-    font-family: monospace;
     text-align: center;
 }
-body{
-    background-color: lightgray;
+a{
+    font-size: 3em;
+    text-decoration: none;
+}
+a,
+h1{
+    font-family: monospace;
+}
+.color{
+    color: white;
 }
