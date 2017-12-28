@@ -1,15 +1,12 @@
 body{
     background-color:lightgrey;
+    font-family: monospace;
 }
 h1{
-    font-size: 10em;
+    font-size: 12em;
     text-align: center;
     font-weight: 900;
     color:black;   
-}
-h1,
-a,{
-    font-family: monospace;
 }
 
 a{
