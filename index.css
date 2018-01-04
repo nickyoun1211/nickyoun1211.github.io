@@ -12,6 +12,7 @@ h1{
 a{
     text-decoration: none;
     font-size: 5em;
+    border-style: solid;
 }
 .color{
     color: white;
