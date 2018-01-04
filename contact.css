@@ -1,7 +1,11 @@
 body{
     background-color:#d5d6d2;
     font-family: monospace;
-} 
+    background-image: url("image/bb.jpg");
+}
+nav{
+    text-align: center;
+}
 h1{
     font-size: 10em;
    text-align: center;
@@ -15,6 +19,11 @@ ul{
 .contact{
     text-decoration: none;
     font-size: 3em;
+    border-style: solid;
+    border-color: #756867;
+    display: inline-block;
+    background-color: #756867;
+    margin: 3px;
 }
 
 #color{
@@ -22,4 +31,7 @@ ul{
 }
 footer{
     text-align: center;
+}
+li a{
+    text-decoration: none;
 }

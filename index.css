@@ -1,6 +1,7 @@
 body{
     background-color: #d5d6d2;
     font-family: monospace;
+    background-image: url("image/bb.jpg");
 }
 nav {
     text-align: center;
@@ -17,10 +18,9 @@ a{
     font-size: 5em;
     border-style: solid;
     border-color: #756867;
-    border-width: 10px;
-    padding: 10px 0px 0px 0px;
     display: inline-block;
-    background-color: #756867
+    background-color: #756867;
+    margin: 3px;    
 }
 .color{
     color: #ff8d3f;
