@@ -1,18 +1,19 @@
 
 body{
-    background-color: lightgray;
+    background-color:  #d5d6d2;;
     font-family: monospace;
 }
 h1{
     font-size: 10em;
     text-align: center;
+    color: #353c3f;
 }
 a{
     font-size: 3em;
     text-decoration: none;
 }
 .color{
-    color: white;
+    color: #ff8d3f;
 }
 footer{
     text-align: center;

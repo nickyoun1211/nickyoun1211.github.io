@@ -1,12 +1,14 @@
 body{
-    background-color: lightgray;
+    background-color: #d5d6d2;
+    ;
 }
 header,
 section{
     font-size: 2em;
+    color: #353c3f;
 }
 #color{
-    color: white
+    color: #ff8d3f;
 }
 nav a{
     text-decoration: none;
