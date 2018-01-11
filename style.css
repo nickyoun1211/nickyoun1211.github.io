@@ -1,0 +1,19 @@
+body{
+    background-color: #d5d6d2;
+    font-family: monospace;
+    background-image: url("image/bb.jpg");
+}
+nav {
+    text-align: center;
+}
+.size{
+    font-size: 10em;
+    color: #353c3f;
+}
+.title{
+    font-size: 12em;
+    font-weight: 900; 
+}
+h1{
+    text-align: center;
+}
