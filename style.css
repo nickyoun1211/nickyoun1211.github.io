@@ -42,10 +42,10 @@ footer{
 }
 nav a:link,
 nav a:visited{
-    color: #353c3f
+    color: #353c3f;
 }
 nav a:hover{
-    color: #ff8d3f
+    color: #ff8d3f;
 }
 #title:link,
 #title:visited,
@@ -92,5 +92,18 @@ footer {
     font-size: 3em;
 }
 #section {
+    text-align: center;
+}
+div section a:link,
+div section a:visited{
+    color: #353c3f
+}
+div section a:hover{
+    color: #ff8d3f
+}
+#mycanvas{
+    border-style: solid;
+}
+main {
     text-align: center;
 }
