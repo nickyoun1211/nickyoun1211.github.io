@@ -3,11 +3,11 @@ var ctx;
 var gold = "#B6872F";
 var gold2= "#CB9A37";
 var purple= "#A96CFF";
-var p2= "#C186FF"
-var eye="#353233"
-var g ="#B1862E"
-var g3 ="#CE9937"
-var gg ="#CC9937"
+var p2= "#C186FF";
+var eye="#353233";
+var g ="#B1862E";
+var g3 ="#CE9937";
+var gg ="#CC9937";
 window.onload = init;
 function init() {
     canvas = document.getElementById("mycanvas");
