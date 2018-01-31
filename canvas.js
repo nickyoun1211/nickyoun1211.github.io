@@ -105,35 +105,34 @@ function init() {
     ctx.fillStyle = gg;
     ctx.fillRect(80,130,10,10);
     ctx.fillStyle = c;
-    ctx.fillRect(50,140,30,10)
-    ctx.fillRect(90,140,40,10)
-    ctx.fillRect(50,130,10,10)
-    ctx.fillRect(120,130,10,10)
+    ctx.fillRect(50,140,30,10);
+    ctx.fillRect(90,140,40,10);
+    ctx.fillRect(50,130,10,10);
+    ctx.fillRect(120,130,10,10);
     ctx.fillStyle = c2;
-    ctx.fillRect(80,140,10,10)
-    ctx.fillRect(60,130,20,10)
-    ctx.fillRect(90,130,30,10)
+    ctx.fillRect(80,140,10,10);
+    ctx.fillRect(60,130,20,10);
+    ctx.fillRect(90,130,30,10);
     ctx.fillStyle = belt;
-    ctx.fillRect(50,150,10,10)
-    ctx.fillRect(50,160,20,10)
-    ctx.fillRect(100,160,10,10)
+    ctx.fillRect(50,150,10,10);
+    ctx.fillRect(50,160,20,10);
+    ctx.fillRect(100,160,10,10);
     ctx.fillStyle = blt2;
-    ctx.fillRect(60,150,70,10)
-    ctx.fillRect(110,160,20,10)
+    ctx.fillRect(60,150,70,10);
+    ctx.fillRect(110,160,20,10);
     ctx.fillStyle = pants;
-    ctx.fillRect(50,170,30,10)
-    ctx.fillRect(70,160,10,10)
-    ctx.fillRect(90,160,10,20)
-    ctx.fillRect(100,170,10,10)
+    ctx.fillRect(50,170,30,10);
+    ctx.fillRect(70,160,10,10);
+    ctx.fillRect(90,160,10,20);
+    ctx.fillRect(100,170,10,10);
     ctx.fillStyle = pants2;
-    ctx.fillRect(110,170,20,10)
+    ctx.fillRect(110,170,20,10);
     ctx.fillStyle = shadow;
-    ctx.fillRect(80,160,10,20)
+    ctx.fillRect(80,160,10,20);
     ctx.fillStyle = shoes;
-    ctx.fillRect(50,180,20,10)
-    ctx.fillRect(100,180,20,10)
+    ctx.fillRect(50,180,20,10);
+    ctx.fillRect(100,180,20,10);
     ctx.fillStyle = shoe;
-    ctx.fillRect(70,180,10,10)
-    ctx.fillRect(120,180,10,10)
-
+    ctx.fillRect(70,180,10,10);
+    ctx.fillRect(120,180,10,10);
 }    
