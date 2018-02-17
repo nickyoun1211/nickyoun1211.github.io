@@ -23,4 +23,39 @@ function init() {
     ctx.moveTo(174.8,323.8);
     ctx.lineTo(158.5,322.2);
     ctx.stroke();
+    ctx.beginPath();
+    ctx.moveTo(112.3,326.7);
+    ctx.lineTo(99.1,324.8);
+    ctx.lineTo(99.1,287.4)
+    ctx.stroke();
+    ctx.beginPath();
+    ctx.moveTo(81.4,322.5);
+    ctx.lineTo(81.4,298);
+    ctx.lineTo(85.1,298.4)
+    ctx.lineTo(85.1,323.2);
+    ctx.lineTo(81.4,322.5)
+    ctx.stroke();
+    ctx.beginPath();
+    ctx.moveTo(85.3,324.4)
+    ctx.lineTo(85.3,287.3)
+    ctx.lineTo(97.2,288.4)
+    ctx.lineTo(97.2,325.4)
+    ctx.lineTo(85.3,324.4)
+    ctx.stroke();
+    ctx.beginPath();
+    ctx.moveTo(97.2,325.4)
+    ctx.lineTo(99.1,324.8)
+    ctx.stroke();
+    ctx.beginPath();
+    ctx.moveTo(97.2,288.4)
+    ctx.lineTo(99.1,287.4)
+    ctx.stroke();
+    ctx.beginPath();
+    ctx.moveTo(81.4,298)
+    ctx.lineTo(85.1,296.1)
+    ctx.stroke();
+    ctx.beginPath();
+    ctx.moveTo(85.3,287.3)
+    ctx.lineTo(87.8,286.6)
+    ctx.stroke();
 }
