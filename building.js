@@ -96,6 +96,26 @@ function init() {
     ctx.lineTo(129.6,274.2)
     ctx.lineTo(133.7,274.3)
     ctx.lineTo(147.3,272.3)
+    ctx.lineTo(147.8,287.5)
+    ctx.lineTo(133.5,289)
+    ctx.lineTo(133.5,274.3)
     ctx.stroke();
     ctx.beginPath();
+    ctx.moveTo(128.9,288.2)
+    ctx.lineTo(133.6,289.4)
+    ctx.stroke();
+    ctx.beginPath();
+    ctx.moveTo(151.7,286.9)
+    ctx.lineTo(147.6,285.7)
+    ctx.stroke();
+    ctx.beginPath();
+    ctx.moveTo(91,286.2)
+    ctx.lineTo(91,154.3)
+    ctx.lineTo(103,152.4)
+    ctx.lineTo(103,272.5)
+    ctx.lineTo(111.7,273.3)
+    ctx.lineTo(111.7,150.6)
+    ctx.lineTo(125.75,147.9)
+    ctx.lineTo(125.75,288.3)
+    ctx.stroke();
 }
