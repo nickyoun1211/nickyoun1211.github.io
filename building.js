@@ -31,91 +31,91 @@ function init() {
     ctx.beginPath();
     ctx.moveTo(81.4,322.5);
     ctx.lineTo(81.4,298);
-    ctx.lineTo(85.1,298.4)
+    ctx.lineTo(85.1,298.4);
     ctx.lineTo(85.1,323.2);
-    ctx.lineTo(81.4,322.5)
+    ctx.lineTo(81.4,322.5);
     ctx.stroke();
     ctx.beginPath();
-    ctx.moveTo(85.3,324.4)
-    ctx.lineTo(85.3,287.3)
-    ctx.lineTo(97.2,288.4)
-    ctx.lineTo(97.2,325.4)
-    ctx.lineTo(85.3,324.4)
+    ctx.moveTo(85.3,324.4);
+    ctx.lineTo(85.3,287.3);
+    ctx.lineTo(97.2,288.4);
+    ctx.lineTo(97.2,325.4);
+    ctx.lineTo(85.3,324.4);
     ctx.stroke();
     ctx.beginPath();
-    ctx.moveTo(97.2,325.4)
-    ctx.lineTo(99.1,324.8)
+    ctx.moveTo(97.2,325.4);
+    ctx.lineTo(99.1,324.8);
     ctx.stroke();
     ctx.beginPath();
-    ctx.moveTo(97.2,288.4)
-    ctx.lineTo(99.1,287.4)
+    ctx.moveTo(97.2,288.4);
+    ctx.lineTo(99.1,287.4);
     ctx.stroke();
     ctx.beginPath();
-    ctx.moveTo(81.4,298)
-    ctx.lineTo(85.1,296.1)
+    ctx.moveTo(81.4,298);
+    ctx.lineTo(85.1,296.1);
     ctx.stroke();
     ctx.beginPath();
-    ctx.moveTo(85.3,287.3)
-    ctx.lineTo(87.8,286.6)
-    ctx.lineTo(99.1,287.4)
+    ctx.moveTo(85.3,287.3);
+    ctx.lineTo(87.8,286.6);
+    ctx.lineTo(99.1,287.4);
     ctx.stroke();
     ctx.beginPath();
-    ctx.moveTo(112.4,289.6)
-    ctx.lineTo(112.4,328.6)
-    ctx.lineTo(128.2,331.4)
-    ctx.lineTo(128.5,291.1)
-    ctx.lineTo(151.6,287.5)
-    ctx.lineTo(151.8,298.9)
+    ctx.moveTo(112.4,289.6);
+    ctx.lineTo(112.4,328.6);
+    ctx.lineTo(128.2,331.4);
+    ctx.lineTo(128.5,291.1);
+    ctx.lineTo(151.6,287.5);
+    ctx.lineTo(151.8,298.9);
     ctx.stroke();
     ctx.beginPath();
-    ctx.moveTo(128.2,331.4)
-    ctx.lineTo(132.0,330.1)
-    ctx.lineTo(131.6,330.3)
-    ctx.lineTo(139,331.5)
-    ctx.lineTo(158,326)
-    ctx.lineTo(158,299.9)
-    ctx.lineTo(149,299.3)
-    ctx.lineTo(131.5,303.3)
-    ctx.lineTo(131.6,330.3)
+    ctx.moveTo(128.2,331.4);
+    ctx.lineTo(132.0,330.1);
+    ctx.lineTo(131.6,330.3);
+    ctx.lineTo(139,331.5);
+    ctx.lineTo(158,326);
+    ctx.lineTo(158,299.9);
+    ctx.lineTo(149,299.3);
+    ctx.lineTo(131.5,303.3);
+    ctx.lineTo(131.6,330.3);
     ctx.stroke();
     ctx.beginPath();
-    ctx.moveTo(131.5,303.3)
-    ctx.lineTo(139.2,303.9)
-    ctx.lineTo(158,300)
+    ctx.moveTo(131.5,303.3);
+    ctx.lineTo(139.2,303.9);
+    ctx.lineTo(158,300);
     ctx.stroke();
     ctx.beginPath();
-    ctx.moveTo(139.3,304.2)
-    ctx.lineTo(139.3,331.3)
+    ctx.moveTo(139.3,304.2);
+    ctx.lineTo(139.3,331.3);
     ctx.stroke();
     ctx.beginPath();
-    ctx.moveTo(128.1,290.4)
-    ctx.lineTo(112,289.2)
-    ctx.lineTo(114.7,287.6)
-    ctx.lineTo(127.5,289.1)
-    ctx.lineTo(129,288.4)
-    ctx.lineTo(129.6,274.2)
-    ctx.lineTo(133.7,274.3)
-    ctx.lineTo(147.3,272.3)
-    ctx.lineTo(147.8,287.5)
-    ctx.lineTo(133.5,289)
-    ctx.lineTo(133.5,274.3)
+    ctx.moveTo(128.1,290.4);
+    ctx.lineTo(112,289.2);
+    ctx.lineTo(114.7,287.6);
+    ctx.lineTo(127.5,289.1);
+    ctx.lineTo(129,288.4);
+    ctx.lineTo(129.6,274.2);
+    ctx.lineTo(133.7,274.3);
+    ctx.lineTo(147.3,272.3);
+    ctx.lineTo(147.8,287.5);
+    ctx.lineTo(133.5,289);
+    ctx.lineTo(133.5,274.3);
     ctx.stroke();
     ctx.beginPath();
-    ctx.moveTo(128.9,288.2)
-    ctx.lineTo(133.6,289.4)
+    ctx.moveTo(128.9,288.2);
+    ctx.lineTo(133.6,289.4);
     ctx.stroke();
     ctx.beginPath();
-    ctx.moveTo(151.7,286.9)
-    ctx.lineTo(147.6,285.7)
+    ctx.moveTo(151.7,286.9);
+    ctx.lineTo(147.6,285.7);
     ctx.stroke();
     ctx.beginPath();
-    ctx.moveTo(91,286.2)
-    ctx.lineTo(91,154.3)
-    ctx.lineTo(103,152.4)
-    ctx.lineTo(103,272.5)
-    ctx.lineTo(111.7,273.3)
-    ctx.lineTo(111.7,150.6)
-    ctx.lineTo(125.75,147.9)
-    ctx.lineTo(125.75,288.3)
+    ctx.moveTo(91,286.2);
+    ctx.lineTo(91,154.3);
+    ctx.lineTo(103,152.4);
+    ctx.lineTo(103,272.5);
+    ctx.lineTo(111.7,273.3);
+    ctx.lineTo(111.7,150.6);
+    ctx.lineTo(125.75,147.9);
+    ctx.lineTo(125.75,288.3);
     ctx.stroke();
 }
