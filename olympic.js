@@ -19,6 +19,12 @@ function init() {
     blueYellow2();
     blackyellow1();
     yellowblack1();
+    yellowblack2();
+    blackyellow2();
+    blackgreen1();
+    greenblack1();
+    greenblack2();
+    blackgreen2();
 }
 function blue() {
     ctx.beginPath();
@@ -70,6 +76,49 @@ function yellowblack1() {
     ctx.strokeStyle="#F6B143"
     ctx.stroke();
 }
+function yellowblack2() {
+    ctx.beginPath();
+    ctx.lineWidth = 20;
+    ctx.arc(403, 413, 115, 7 * Math.PI/4,Math.PI/4);
+    ctx.strokeStyle="#F6B143"
+    ctx.stroke();
+}
+function blackyellow2() {
+    ctx.beginPath();
+    ctx.lineWidth = 20;
+    ctx.arc(531, 295, 115, Math.PI/2, 3*Math.PI/4);
+    ctx.strokeStyle="black"
+    ctx.stroke();
+}
+function blackgreen1() {
+    ctx.beginPath();
+    ctx.lineWidth = 20;
+    ctx.arc(531, 295, 115, Math.PI/4,Math.PI/2);
+    ctx.strokeStyle="black"
+    ctx.stroke();
+}
+function greenblack1() {
+    ctx.beginPath();
+    ctx.lineWidth = 20;
+    ctx.arc(661, 413, 115,Math.PI/4 , 5*Math.PI/4);
+    ctx.strokeStyle="#3E8B3D"
+    ctx.stroke();
+}
+function greenblack2() {
+    ctx.beginPath();
+    ctx.lineWidth = 20;
+    ctx.arc(661,413,115,5* Math.PI/4,3*Math.PI/2);
+    ctx.strokeStyle="3E8B3D"
+    ctx.stroke();
+}
+function blackgreen2() {
+    ctx.beginPath();
+    ctx.lineWidth = 20;
+    ctx.arc(531, 295, 115, 7*Math.PI/4,Math.PI/4);
+    ctx.strokeStyle="black"
+    ctx.stroke();
+}
+funct
 function black() {
     ctx.beginPath();
     ctx.lineWidth = 20;
