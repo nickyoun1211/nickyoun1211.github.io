@@ -118,4 +118,19 @@ function init() {
     ctx.lineTo(125.75,147.9);
     ctx.lineTo(125.75,288.3);
     ctx.stroke();
+    ctx.beginPath();
+    ctx.moveTo(145.45,272.8);
+    ctx.lineTo(145.45,154.9);
+    ctx.lineTo(125.75,147.9);
+    ctx.stroke();
+    ctx.beginPath();
+    ctx.moveTo(103.2,152.8);
+    ctx.lineTo(105.2,153.5);
+    ctx.lineTo(105.2,272.5);
+    ctx.stroke();
+    ctx.beginPath();
+    ctx.moveTo(932,153.9);
+    ctx.lineTo(932,129.3);
+    ctx.stroke();
+
 }
