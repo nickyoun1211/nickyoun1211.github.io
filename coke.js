@@ -1,7 +1,7 @@
 var canvas;
 var ctx;
 var redd = "#ED3833"
-var coke = "341C1A"
+var inside = "#311109"
 
 window.onload = init;
 function init() {
@@ -57,6 +57,26 @@ function init() {
    ctx.fillRect(20,30,10,10);
 
 
-   ctx.fillStyle = coke;
-   ctx.fillRect(80,130,20,70);
+   ctx.fillStyle = inside;
+   ctx.fillRect(80,130,20,50);
+   ctx.fillRect(70,140,10,40)
+   ctx.fillRect(60,140,10,20)
+   ctx.fillRect(50,170,10,10)
+   ctx.fillRect(50,190,70,20)
+   ctx.fillRect(60,180,50,10)
+   ctx.fillRect(100,150,10,10)
+   ctx.fillRect(110,170,10,10)
+   ctx.fillRect(70,260,40,100)
+   ctx.fillRect(60,280,10,90)
+   ctx.fillRect(40,330,20,40)
+   ctx.fillRect(110,330,20,30)
+   ctx.fillRect(70,360,10,10)
+   ctx.fillRect(120,260,10,30)
+   ctx.fillRect(40,260,10,30)
+   ctx.fillRect(50,260,10,20)
+   ctx.fillRect(60,260,10,10)
+   ctx.fillRect(110,260,10,10)
+   ctx.fillRect(50,290,10,10)
 }
+
+ 
